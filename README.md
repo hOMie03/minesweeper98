@@ -7,7 +7,7 @@ Do you know what an actual Minesweeper is? I didn't either until I read [this](h
 
 ## My Version
 
-![UI Screenshot](https://hOMie03.github.io/minesweeper98/blob/master/images/minesweeper-snapshot.png)
+![UI Screenshot](https://hOMie03.github.io/minesweeper98/blob/main/images/minesweeper-snapshot.png)
 
 ## Getting Started
 [Play the Game here](https://hOMie03.github.io/minesweeper98/)!
