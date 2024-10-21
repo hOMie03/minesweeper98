@@ -36,6 +36,7 @@ The good old Three Friends:
 
 ## My Design Choices
 I decided to roll with the OG Windows '98 look, because I love the old era of Windows 98/XP as that was my childhood! Also, currently I'm working on a similar type of project related to Windows98, so stay tuned!
+For mobile gamers, make sure you enable Desktop site to change the levels of the game, as it somehow gets hidden when played in mobile. Cheers!
 
 ## Thank you for reading and playing the game! I hope you enjoy it and get nostalgic about those good 'ol days!
 :)
